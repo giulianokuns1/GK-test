@@ -1,0 +1,29 @@
+.box {
+	padding-top: 20px;
+}
+
+#operation {
+    color: black;
+}
+
+.calculator-box {
+	color: white;
+    border: solid 1px gray;
+    border-radius: 10px;
+    background-color: #5dc0de;
+    padding: 20px;
+}
+
+.result {
+	padding-top: 10px;
+}
+
+@media screen and (max-width: 992px) {
+	.value-2-box {
+	    padding-top: 15px;
+	}
+
+	.calculate-box {
+	    padding: 15px 0px 10px 25px;
+	}
+}
